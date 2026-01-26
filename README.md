@@ -1,27 +1,175 @@
-<h1 align="center">Hi 👋, I'm Sambhu S Babu</h1>
-<h3 align="center">A passionate Android and website developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Vue.js Projects**
+# 👋 Hi, I'm Sambhu S Babu
 
-- 🌱 I’m currently learning **VueJs and React**
+### ERPNext & Frappe Developer • Full-Stack Engineer  
+**ERP Automation • Business Systems • Integrations • Mobile App • Websites**
 
-- 👯 I’m looking to collaborate on **Javascript Projects**
+📍 Alappuzha, Kerala, IN
 
-- 👨‍💻 All of my projects are available at [https://sambhusbabu.github.io/website/](https://sambhusbabu.github.io/website/)
+---
 
-- 📫 How to reach me **sambhusbabu@outlook.in**
+<a href="https://www.paypal.com/paypalme/sambhusbabu" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
+</a>
+&nbsp;
+<a href="https://buymeacoffee.com/sambhusbabu.in" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sambhusbabu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambhusbabu_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sambhusbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambhusbabu" height="30" width="40" /></a>
-<a href="https://fb.com/sambhusbabu.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sambhusbabu.in" height="30" width="40" /></a>
-<a href="https://instagram.com/sambhusbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sambhusbabu" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/sambhusbabu?locale.x=en_GB)
+I’m an **ERPNext Developer and Frappe Framework Specialist** with strong experience in **ERPNext implementation, customization, and integration** for businesses aiming to automate operations and scale efficiently.
 
+I build **custom ERPNext modules, workflows, reports, dashboards, and integrations** using the **Frappe Framework**, focusing on performance, scalability, and security.
+
+I also develop **React Native mobile applications**, **modern web applications**, and **WordPress business websites**, delivering complete end-to-end solutions.
+
+---
+
+## 🧩 Frappe Ecosystem (Products & Platforms)
+
+<div align="left">
+
+<a href="https://erpnext.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/frappe/erpnext/refs/heads/develop/erpnext/public/images/erpnext-logo.png" height="40" alt="ERPNext" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://frappeframework.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/frappe/frappe/refs/heads/develop/frappe/public/images/frappe-framework-logo.png" height="40" alt="Frappe Framework" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://frappe.io/hr" target="_blank">
+  <img src="https://raw.githubusercontent.com/frappe/hrms/refs/heads/develop/hrms/public/images/frappe-hr-logo.png" height="40" alt="Frappe HRMS" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://frappe.io/crm" target="_blank">
+  <img src="https://raw.githubusercontent.com/frappe/crm/refs/heads/develop/crm/public/images/logo.png" height="40" alt="Frappe CRM" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://frappe.io/lms" target="_blank">
+  <img src="https://raw.githubusercontent.com/frappe/lms/refs/heads/develop/lms/public/images/lms-logo.png" height="40" alt="Frappe LMS" />
+</a>
+
+</div>
+
+---
+
+## 🧠 Core Expertise
+
+- ERPNext Development & Customization  
+- ERPNext Implementation & Support  
+- Frappe Framework Application Development  
+- Business Process Automation & CRM  
+- WhatsApp API & Third-Party Integrations  
+- React Native Mobile App Development  
+- WordPress Website Development  
+- Secure Application Development  
+
+---
+
+## 🛠️ Languages & Frameworks
+
+<div align="left">
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" alt="Python" />
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+</a>
+&nbsp;&nbsp;
+<a href="https://react.dev" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42" alt="React" />
+</a>
+&nbsp;&nbsp;
+<a href="https://vuejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="42" alt="Vue.js" />
+</a>
+&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
+</a>
+&nbsp;&nbsp;
+<a href="https://nuxt.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="42" alt="Nuxt.js" />
+</a>
+&nbsp;&nbsp;
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wordpress.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="42" alt="WordPress" />
+</a>
+
+</div>
+
+---
+
+## ☁️ Cloud, Databases & Tools
+
+<div align="left">
+
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />
+</a>
+&nbsp;&nbsp;
+<a href="https://cloud.google.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="42" alt="Google Cloud" />
+</a>
+&nbsp;&nbsp;
+<a href="https://firebase.google.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="42" alt="Firebase" />
+</a>
+&nbsp;&nbsp;
+<a href="https://supabase.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="42" alt="Supabase" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.postman.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="42" alt="Postman" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.figma.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="42" alt="Figma" />
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" alt="Git" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Links & Contact
+
+- 🌍 Website: https://sambhusbabu.github.io/  
+- 💼 LinkedIn: https://www.linkedin.com/in/sambhusbabu/  
+- 🧑‍💻 GitHub: https://github.com/sambhusbabu  
+- 📧 Email: sambhusbabu@outlook.com  
+
+---
+
+<div align="center">
+
+### 🤝 Support & Connect
+
+If my work helps you, consider supporting it ☕  
+⭐ Check out my pinned repositories below!
+
+</div>
