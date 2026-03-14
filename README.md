@@ -1,6 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Sambhu S Babu
+<!-- Typing SVG for Roles -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=30&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Engineer;Frappe+Developer;ERPNext+Developer;VueJs+Developer;Wordpress+Develper;Cybersecurity+Analyst;Secure+Code+Enthusiast" alt="Typing SVG" />
+</p>
 
 ### ERPNext & Frappe Developer • Full-Stack Engineer  
 **ERP Automation • Business Systems • Integrations • Mobile App • Websites**
@@ -9,6 +13,14 @@
 
 ---
 
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sambhusbabu&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+## Support & Donate
 <a href="https://www.paypal.com/paypalme/sambhusbabu" target="_blank">
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
 </a>
@@ -158,7 +170,7 @@ I also develop **React Native mobile applications**, **modern web applications**
 
 ## 🌐 Links & Contact
 
-- 🌍 Website: https://sambhusbabu.github.io/  
+- 🌍 Website: https://sambhusbabu.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/sambhusbabu/  
 - 🧑‍💻 GitHub: https://github.com/sambhusbabu  
 - 📧 Email: sambhusbabu@outlook.com  
@@ -170,6 +182,6 @@ I also develop **React Native mobile applications**, **modern web applications**
 ### 🤝 Support & Connect
 
 If my work helps you, consider supporting it ☕  
-⭐ Check out my pinned repositories below!
+⭐<a href="https://sambhusbabu.com/contact" target="_blank"> Connect Me </a>
 
 </div>
